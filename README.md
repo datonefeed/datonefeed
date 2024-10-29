@@ -36,6 +36,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Notion-282C34?logo=notion&logoColor=000000" alt="Notion logo" title="Notion" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Trello-282C34?logo=trello&logoColor=0052CC" alt="Trello logo" title="Trello" height="25" /></span>
+&nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
